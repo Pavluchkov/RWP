@@ -39,6 +39,9 @@ p, div, a, span{
 	width: 780px;
 	margin: 0 auto;
 }
+.yellow{
+	color: #fcdb00;
+}
 /*first section - header*/
 
 .header{
@@ -113,3 +116,36 @@ p, div, a, span{
 }
 
 /*third section - touch*/
+.touch{
+	background: #000;
+	color: #fff;
+}
+.form{
+	text-align: center;
+}
+.form__input{
+	background: #fff;
+	font-size: 16px;
+	font-family: 'PT Sans', sans-serif;
+	border-radius: 5px;
+	width: 580px;
+	padding: 14px 0;
+	padding-left: 23px;
+	border: 0;
+	margin-right: 21px;
+	outline: none;
+}
+.form__btn{
+	font-family: 'PT Sans', sans-serif;
+	background: #fcdb00;
+	color: #000;
+	font-size: 16px;
+	font-weight: 700;
+	border-radius: 5px;
+	width: 126px;
+	border: 0;
+	padding: 14px 0;
+	cursor: pointer;
+}
+
+/*fourth section - footer*/
