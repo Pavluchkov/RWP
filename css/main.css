@@ -25,7 +25,21 @@ h2{
 p, div, a, span{
 
 }
-/*Первый экран*/
+
+.title{
+	padding-top: 100px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.title__main{
+	font-size: 32px;
+}
+.title__text{
+	font-size: 20px;
+	width: 780px;
+	margin: 0 auto;
+}
+/*first section - header*/
 
 .header{
 	background:#fcdb00;
@@ -84,3 +98,6 @@ p, div, a, span{
 	display: block;
 	margin: 60px auto 0;
 }
+
+/*two section - features*/
+
